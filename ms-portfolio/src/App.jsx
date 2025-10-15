@@ -1,11 +1,18 @@
+import './App.css'
+import { HashRouter as Router, Routes, Route } from 'react-router'
+import AudioVisualizerShowCase from './Pages/AudioVisualizerShowCase.jsx'
+import { HomePage } from './Pages/HomePage'
 
 function App() {
 
   return (     
-    <div className="App">
-     <iframe src="https://editor.p5js.org/M-Stewy/full/WIKXTorO7" width="1920"height="1080"></iframe>
-      <h1>Header 1???</h1>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<HomePage/>}/>
+        <Route path="/AudioVisual" element={<AudioVisualizerShowCase/>}/>
+
+      </Routes>
+    </Router>
   )
 }
 
