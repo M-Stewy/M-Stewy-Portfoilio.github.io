@@ -7,7 +7,7 @@ return(
          I created an audio visualizer that recognizes the musical note being played,
           and displays the visual using nothing but said musical note
     </h2>
-    <iframe src="http://editor.p5js.org/M-Stewy/full/CqP6oeQDR" height="600" width ="800" allow="microphone http://editor.p5js.org/M-Stewy/full/CqP6oeQDR"></iframe>
+    <iframe src="https://editor.p5js.org/M-Stewy/full/CqP6oeQDR" height="600" width ="800" allow="microphone https://editor.p5js.org/M-Stewy/full/CqP6oeQDR"></iframe>
     
     <h3>
         
@@ -19,7 +19,7 @@ return(
             needed for the visualizer.
              I also decided to include the musical note being played for the display
     </h3>
-<iframe src="http://youtu.be/https://youtu.be/NiVfIjwRVAs" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+<iframe src="https://youtu.be/https://youtu.be/NiVfIjwRVAs" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen/>
     </>
 );
