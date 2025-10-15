@@ -3,8 +3,6 @@
 function AudioVisualizerShowCase(){
 return(
     <>
-
-    <h1>TEST! 2</h1>
     <h2>For my Creative Coding class CODS 356,
          I created an audio visualizer that recognizes the musical note being played,
           and displays the visual using nothing but said musical note
@@ -21,9 +19,7 @@ return(
             needed for the visualizer.
              I also decided to include the musical note being played for the display
     </h3>
-<iframe src="https://www.youtube.com/embed/hT_TQVBcKAU" height="600" width ="800" />
-n
-            <h1>TEST AGAIN Again?</h1> 
+<iframe src="https://www.youtube.com/embed/NiVfIjwRVAs" height="600" width ="800" />  
     </>
 );
 }
