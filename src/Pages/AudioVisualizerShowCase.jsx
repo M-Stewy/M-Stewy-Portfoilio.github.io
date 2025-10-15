@@ -21,10 +21,9 @@ return(
             needed for the visualizer.
              I also decided to include the musical note being played for the display
     </h3>
-<iframe src="https://www.youtube.com/embed?v=hT_TQVBcKAU" height="600" width ="800" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen/>
+<iframe src="https://www.youtube.com/embed?v=hT_TQVBcKAU" height="600" width ="800" />
 
-            <h1>TEST AGAIN !!!!!!!!</h1>
+            <h1>TEST AGAIN !!!!!!!!</h1> 
     </>
 );
 }
